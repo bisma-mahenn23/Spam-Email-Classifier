@@ -20,3 +20,11 @@ A basic machine learning model to classify emails as spam or not spam.
 - Python
 - Pandas, Scikit-learn
 - Google Colab
+
+# Results
+         Model	      Accuracy	    Precision	      Recall	    F1 Score
+Logistic Regression	  96.5%	        97.1%	          95.8%	      96.4%
+Random Forest	        97.8%	        98.3%	          97.1%	      97.7%
+
+# Best Model
+Random Forest with tuned hyperparameters
