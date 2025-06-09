@@ -27,4 +27,4 @@ Logistic Regression       96.5%	        97.1%	          95.8%	      96.4%
 Random Forest	        97.8%	        98.3%	          97.1%	      97.7%
 
 # Best Model
-Random Forest with tuned hyperparameters
+Random Forest with `tuned` hyperparameters
